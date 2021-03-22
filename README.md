@@ -8,9 +8,9 @@ Try to spend 8 hours on this task maximum. It is not a problem if the solution i
 Create a full-stack web application that provides some basic data visualization. You will have to figure out exactly what kind of statistics to show (you don't have to show everything), and how you want to present them.
 
 ### The data
+You only have to use the data that is already provided in this repository in the `/data folder`.
 The data is coming from a HCAHPS survey, which describes inpatient experiences in hospitals in different states of the US.
 https://healthdata.gov/dataset/hcahps-state  
-You only have to use the data that is already provided in this repository.
 
 ### Functionality
 * The user should be able to select a state, and see related statistics.
